@@ -6,7 +6,7 @@ BOT_TOKEN = "8101200711:AAHJdTDfw53m0U_Cq5J9wTZZVlwvduD4eqk"
 HF_TOKEN = "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"
 
 # 🌐 URLs
-TG_API = f"https://api.telegram.org/bot{8101200711:AAHJdTDfw53m0U_Cq5J9wTZZVlwvduD4eqk}"
+TG_API = f"https://api.telegram.org/bot{BOT_TOKEN}"
 GROQ_URL = "https://api-inference.huggingface.co/models/meta-llama/Meta-Llama-3-8B-Instruct"
 
 def get_updates(offset=None):
